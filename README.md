@@ -1,1 +1,1 @@
-# Kaggle-projects
+# My projects
